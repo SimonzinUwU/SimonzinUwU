@@ -1,6 +1,6 @@
 - 👋 Oiee, eu sou o @SimonzinUwU
 - 👀 Gosto muito de música, poderia ficar escutando o dia todo
-- 📚 Sou aluno de Pensamento Computacional
+- 📚 Sou aluno de Programação
 - 🦡💛 Lufano!
 
 
